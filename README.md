@@ -64,18 +64,18 @@ Skills - Negotiator, Leadership, Communication, Agile (Project Management)
 ---------------------------------------------------------
 
 
-The below are just an appendix
+The below are just an appendix 
 
-Process Flow Diagram
+Example Process Flow Diagram
 
 ![Alt text](/more/process_flow_crd_to_org.jpg?raw=true "ProcessFlow Diagram")
 
 
-Swimlane Diagram
+Example Swimlane Diagram
 ![Alt text](/more/swimlane_diagram_crd.png?raw=true "Swimlane Diagram")
 
 
-Test Case Format
+Example Test Case Format
 ![Alt text](/more/test_case_crd.webp?raw=true "Tase Case Format")
 
 
