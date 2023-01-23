@@ -1,18 +1,28 @@
 
-👋 Hi, I’m @aungmyo-myint, currently working as a Business Analyst (BA) - specialized in software development.
+👋 Hi, I’m @aungmyo-myint, currently working as a Project Manager/Business Analyst (PM/BA) - specialized in software development fields.
 
 
-The below are the main responsible of my work as BA:
+The below are the main responsible of my work as PM/BA:
 
-- Requirements Gathering (Interview, Workshop) & Analysis (SWOT) 
-- Requirements Confirmation (BRD, ERD, FRD) 
-- Process Workflows ++ other required Diagrams 
-- Draft UI 
+- Project Planning
+- Project Timeline Estimation
+- Team Management
+- Team Communication
+- Risk Analyst
+- Risk Planning
+- Release Plan 
+- Project Tracking
+- Project Coordination 
+- Requirements Gathering & Analysis 
+- Documentations 
+- User Journey, Use Cases, Workflows, Process
+- Draft UI, Process Flow  
 - Requirements Verification (Functional Testing/UAT) 
 - User Training 
+- User Guidelines 
 - Production support 
 
-and as I used to work as a developer, I have the solid background technology knowledge (backend development, cloud deploymenet)
+and as I used to be a developer in the beginning of my career life, I have the solid background technology knowledge (backend development, cloud deploymenet) 
 
 
 ---------------------------------------------------------
@@ -51,15 +61,8 @@ The projects/products which I have involved from 2022 to 2017 are as below.
 
 ---------------------------------------------------------
 
-Future Career Developmenet - Analytics / Business Development / Project Management 
-
 
 Linkendin - https://www.linkedin.com/in/aungmyo-myint/
-
-
-Skills - Negotiator, Leadership, Communication, Agile (Project Management)
-       - Logical Thinking, Technology Feasibility, Cloud Technology
-
 
 ---------------------------------------------------------
 
